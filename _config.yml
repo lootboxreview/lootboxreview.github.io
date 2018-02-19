@@ -11,13 +11,13 @@ minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "Lootbox Review"
 title_separator          : "-"
-name                     : "Danny Farmer & Matt McCombs"
+name                     : "Lootbox Review"
 description              : "A dedicated space for discovering the true cost of gaming."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lootboxreview.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -90,10 +90,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lootbox Review"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Discover the true cost of gaming."
+  location         : "Dallas, Texas"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
